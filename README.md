@@ -16,3 +16,5 @@ With COVID19 constantly looming over us and lots of questions with very little a
 
 ### Supplementary Information
 For each one there are associated htmls's representing the corresponding notebooks for each of the projects.  I can provide the actual notebooks upon request for anyone interested!  They are currently locked up in a docker image I can't deploy yet because I have other code running and the instance needs 18 gigs of RAM to launch, or I will lose the hSBM model.
+
+To view the notebooks, click on the html file, click on raw, and then save this as an html file.  Once saved, open in your favorite browswer!
