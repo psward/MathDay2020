@@ -2,7 +2,7 @@
 
 Above are my two, three minute talks for Math Day 2020! 
 
-YPou can view <i>Big Jumps or Little Steps: Fighting Gerrymandering with Random Walks</i>(https://youtu.be/SwfkuVxsSSs)[here].
+YPou can view <i>Big Jumps or Little Steps: Fighting Gerrymandering with Random Walks</i>[https://youtu.be/SwfkuVxsSSs](here).
 
 You can view <i>Imposter Syndrome: Classifying Salamanders with Computer Vision and Artificial Neural Networks</i> (https://youtu.be/m2p13IJojD8)[here].
 
