@@ -4,9 +4,9 @@ Above are my two, three minute talks for Math Day 2020!
 
 YPou can view <i>Big Jumps or Little Steps: Fighting Gerrymandering with Random Walks</i> [here](https://youtu.be/SwfkuVxsSSs).
 
-You can view <i>Imposter Syndrome: Classifying Salamanders with Computer Vision and Artificial Neural Networks</i> (here)[https://youtu.be/m2p13IJojD8].
+You can view <i>Imposter Syndrome: Classifying Salamanders with Computer Vision and Artificial Neural Networks</i>                  (here)[https://youtu.be/m2p13IJojD8].
 
-You can view <i>Using Unsupervised Documenting Clustering to Facilitate Coronavirus Research</i> (https://youtu.be/RePL5Ebn73A)[here].
+You can view <i>Using Unsupervised Documenting Clustering to Facilitate Coronavirus Research</i> [here](https://youtu.be/RePL5Ebn73A).
 
 
 
