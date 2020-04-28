@@ -2,6 +2,20 @@
 
 Above are my two, three minute talks for Math Day 2020! 
 
+YPou can view <i>Big Jumps or Little Steps: Fighting Gerrymandering with Random Walks</i>(https://youtu.be/SwfkuVxsSSs)[here].
+
+You can view <i>Imposter Syndrome: Classifying Salamanders with Computer Vision and Artificial Neural Networks</i> (https://youtu.be/m2p13IJojD8)[here].
+
+You can view <i>Using Unsupervised Documenting Clustering to Facilitate Coronavirus Research</i> (https://youtu.be/RePL5Ebn73A)[here].
+
+
+
+## Big jumps or little steps: fighting gerrymandering with random walks
+
+Co-Presentor: Suzie Tovar
+
+Political gerrymandering is a complex and pressing threat to our system of government. At the heart of our difficulties to fairly divide ourselves in voting district lies a math problem – how do we measure fairness? How can we use that measure to help draw fair district boundaries? Our project is part of nationwide collaboration of mathematicians, demographers, lawyers, mapmakers, political leaders, and citizens attempting to develop tools for this purpose. We will survey Markov Chain Monte Carlo (MCMC) methods used successfully in the PA Supreme Court case, work to make MCMC more widely available via the Python package GerryChain, and a recent improvement to MCMC called recombination.
+
 ## Imposter Syndrome: Classifying Salamanders with Computer Vision and Artificial Neural Networks
 
 Salamanders serve as important tetrapod models for developmental, regeneration and evolutionary studies. In order to tell certain species of salamander apart, genetic sequencing is used which can be difficult as the sequence could be rather lengthy and takes time and equipment many places do not have. There are also many museums with specimens for which DNA sequencing cannot be done, thus the need for another method for identifying salamanders. This project aims to create a deep learning model that is able to take in a picture of a salamander and return its classification.
